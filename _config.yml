@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seongyeop Kim Curriculum Vitae"
+title                    : "Seongyeop Kim"
 title_separator          : "-"
 name                     : &name "Seongyeop Kim"
 description              : &description "personal description"
