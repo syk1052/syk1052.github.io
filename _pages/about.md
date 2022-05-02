@@ -18,4 +18,4 @@ Education
 <!-- 
 Experience
 ======
-* 2022 ICIP Reviewer -->
+* 2022 ICIP Reviewer. -->
