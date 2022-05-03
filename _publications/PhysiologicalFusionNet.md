@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/PhysiologicalFusionNet
 excerpt: ""
 date: 2019-08-26
-venue: "ICIP 2019"
+venue: "ICIP"
 paperurl: "http://academicpages.github.io/files/PhysiologicalFusionNet.pdf"
 citation: "Lee, S., Kim, S., Kim, H. G., Kim, M. S., Yun, S., Jeong, B., & Ro, Y. M. (2019, September). Physiological fusion net: Quantifying individual vr sickness with content stimulus and physiological response. In 2019 IEEE International Conference on Image Processing (ICIP) (pp. 440-444). IEEE."
 ---
