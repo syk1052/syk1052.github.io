@@ -15,7 +15,8 @@ Education
 * B.S. in Texas A&M University (Electrical Engineering), 2015.8 - 2018.5
 * Ph.D in Korea Institute of Science and Technology (Electrical Engineering), 2024 (expected)
 
-<!-- 
+
 Experience
 ======
-* 2022 ICIP Reviewer. -->
+* 2022 ICIP Reviewer.
+* 2017 Spring Introduction to Multimedia (KAIST) Teaching Assistant
