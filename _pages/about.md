@@ -17,5 +17,5 @@ Education
 
 Experience
 ======
-* 2022 ICIP Reviewer.
-* 2017 Spring Introduction to Multimedia (KAIST) Teaching Assistant
+* 2022, ICIP Reviewer.
+* 2019, Introduction to Multimedia (EE474, KAIST) Teaching Assistant
