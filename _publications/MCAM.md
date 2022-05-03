@@ -2,13 +2,12 @@
 title: "M-CAM: Visual Explanation of Challenging Conditioned Dataset with Bias-reducing Memory"
 collection: publications
 permalink: /publication/MCAM
-excerpt: ''
+excerpt: ""
 date: 2021-11-22
-venue: 'Conference 6'
-paperurl: 'http://academicpages.github.io/files/MCAM.pdf'
-citation: 'Kim, S., & Ro, Y. M. (2021, November). M-CAM: Visual Explanation of Challenging Conditioned Dataset with Bias-reducing Memory. In The 32nd British Machine Vision Conference, BMVC 2021. British Machine Vision Association (BMVA).'
+venue: "BMVC 2021"
+paperurl: "http://academicpages.github.io/files/MCAM.pdf"
+citation: "Kim, S., & Ro, Y. M. (2021, November). M-CAM: Visual Explanation of Challenging Conditioned Dataset with Bias-reducing Memory. In The 32nd British Machine Vision Conference, BMVC 2021. British Machine Vision Association (BMVA)."
 ---
-BMVC 2021
 
 [Download paper here](http://academicpages.github.io/files/MCAM.pdf)
 
