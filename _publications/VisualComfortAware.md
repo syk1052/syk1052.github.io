@@ -8,6 +8,3 @@ venue: "AAAI"
 paperurl: 
 citation: "Kim, H. G., Park, M., Lee, S., Kim, S., & Ro, Y. M. (2021). Visual Comfort Aware-Reinforcement Learning for Depth Adjustment of Stereoscopic 3D Images. arXiv preprint arXiv:2104.06782."
 ---
-
-
-Recommended citation: Kim, H. G., Park, M., Lee, S., Kim, S., & Ro, Y. M. (2021). Visual Comfort Aware-Reinforcement Learning for Depth Adjustment of Stereoscopic 3D Images. arXiv preprint arXiv:2104.06782.
