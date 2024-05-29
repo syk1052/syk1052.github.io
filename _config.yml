@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seongyeop Kim"
   avatar           : "SeongyeopKim.png"
-  bio              : "Royale with Cheese"
+  bio              : 
   location         : "Daejeon, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
