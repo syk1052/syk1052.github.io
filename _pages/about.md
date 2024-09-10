@@ -17,10 +17,9 @@ Education
 
 Experience
 ======
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) Reviewer
+* 2021 - 2024, ICIP Reviewer
 * 2023, CVPR Reviewer
 * 2022, ECCV Reviewer
 * 2022, ICIP Reviewer
-* 2021, ICIP Reviewer
 * 2019, Introduction to Multimedia (EE474, KAIST) Teaching Assistant
-* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) Reviewer
-
