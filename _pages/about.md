@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Korea Institute of Science and Technology (Electrical Engineering), 2024 (expected)
+* Ph.D in KAIST (Electrical Engineering), 2025.2 (expected)
 * B.S. in Texas A&M University (Electrical Engineering), 2015.8 - 2018.5
 * University of Wisconsin-Eau Claire (Physics), 2014.1 - 2015.5
 * Youngdong High School, 2011.3 - 2014.2
