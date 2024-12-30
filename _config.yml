@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Royale with Cheese"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Seongyeop Kim"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seongyeop Kim (김성엽), Ph.D."
+  name             : "Seongyeop Kim, Ph.D. \n 김성엽"
   avatar           : "SeongyeopKim.png"
   bio              : 
   location         : "Seoul, South Korea"
