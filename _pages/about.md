@@ -10,10 +10,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in KAIST (Electrical Engineering), 2025.2 (expected)
-* B.S. in Texas A&M University (Electrical Engineering), 2015.8 - 2018.5
-* University of Wisconsin-Eau Claire (Physics), 2014.1 - 2015.5
-* Youngdong High School, 2011.3 - 2014.2
+* Ph.D. Degree in KAIST (Electrical Engineering), 2025.02
+* B.S. Degree in Texas A&M University (Electrical Engineering), 2015.08 - 2018.05
+* University of Wisconsin-Eau Claire (Physics), 2014.01 - 2015.05
+* Youngdong High School, 2011.03 - 2014.02
 
 Experience
 ======
