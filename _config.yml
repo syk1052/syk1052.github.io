@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seongyeop Kim"
+title                    : "Royale with Cheese"
 title_separator          : "-"
-name                     : &name "Seongyeop Kim (김성엽), Ph.D."
+name                     : &name "Seongyeop Kim"
 description              : &description "personal description"
 url                      : https://syk1052.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seongyeop Kim"
+  name             : "Seongyeop Kim (김성엽), Ph.D."
   avatar           : "SeongyeopKim.png"
   bio              : 
   location         : "Seoul, South Korea"
