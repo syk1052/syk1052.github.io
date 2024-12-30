@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Seongyeop Kim"
 title_separator          : "-"
-name                     : &name "Seongyeop Kim"
+name                     : &name "Seongyeop Kim (김성엽), Ph.D."
 description              : &description "personal description"
 url                      : https://syk1052.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Seongyeop Kim"
   avatar           : "SeongyeopKim.png"
   bio              : 
-  location         : "Daejeon, South Korea"
+  location         : "Seoul, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gpX2FNEAAAAJ&hl=ko&oi=ao"
