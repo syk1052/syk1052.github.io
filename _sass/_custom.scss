@@ -1,0 +1,22 @@
+.archive__item {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.archive__item-thumbnail {
+  flex-shrink: 0;
+  width: 100px; /* Adjust the size as needed */
+  height: auto;
+}
+
+.archive__item-thumbnail img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px; /* Optional: For rounded corners */
+}
+
+.archive__item-content {
+  flex: 1;
+}
