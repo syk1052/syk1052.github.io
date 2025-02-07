@@ -27,5 +27,4 @@ Experiences
 * ICIP Reviewer, 2021 - 2024
 * CVPR Reviewer, 2023
 * ECCV Reviewer, 2022
-* ICIP Reviewer, 2022
 * Introduction to Multimedia (EE474, KAIST) Teaching Assistant, 2022
