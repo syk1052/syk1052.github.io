@@ -19,6 +19,17 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
+    
+    {% for post in site.posts %}
+      <div class="archive-item">
+        {% if post.thumbnail %}
+          <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}" class="archive-thumbnail">
+        {% endif %}
+        <div class="archive-content">
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p>{{ post.excerpt }}</p>
+        </div>
+      </div>
+    {% endfor %}
   </div>
 </div>
